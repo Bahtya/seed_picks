@@ -4,8 +4,8 @@
 // @version      2024-03-04
 // @description  做种精选
 // @author       bahtyar
-// @match        https://*tjupt.org/torrents.php*
-// @match        https://*tjupt.org/torrents_new.php*
+// @match        https://*.tjupt.org/torrents.php*
+// @match        https://*.tjupt.org/torrents_new.php*
 // @icon         https://www.tjupt.org/assets/favicon/favicon.svg
 // @grant        none
 // ==/UserScript==
