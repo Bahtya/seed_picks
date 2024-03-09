@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Seed Picks
 // @namespace    http://tampermonkey.net/
-// @version      2024-03-04
+// @version      2024-03-09
 // @description  做种精选
 // @author       bahtyar
 // @match        https://*.tjupt.org/torrents.php*
